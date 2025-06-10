@@ -1,0 +1,7 @@
+# requirements.txt
+torch
+torchvision
+requests
+python-dotenv
+tqdm
+Pillow
